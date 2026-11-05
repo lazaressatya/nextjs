@@ -1,6 +1,6 @@
 services:
   nextjs:
-    image: nothing
+    image: nextjs
     container_name: nextjs-app
     ports:
       - "3000:3000"
